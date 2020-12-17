@@ -1,0 +1,4 @@
+OBJECT_BASE 676553.btg
+OBJECT NTGP.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -138.811258 -14.810418 5.9 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -138.811031 -14.808943 5.2 0.00
